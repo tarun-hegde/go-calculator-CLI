@@ -9,3 +9,4 @@
 2)To perform Multiplication:`p num[1] num[2] ...`  
 2)To perform Addition:`add num[1] num[2] ...`  
 <i>Returns all answers in form of integers.</i>
+<b>Note:<i>While inserting negative integers add the flag --, for eg:`go run main.go add -- -11 21`.</i>
