@@ -1,10 +1,11 @@
 # go-calculator-CLI
-Very Simple cli made using cobra which acts as a calculator.  
-The calculator can perform the operations such as addition,division and multiplication.
+<i>Very Simple cli made using cobra which acts as a calculator. </i>  
+<i>The calculator can perform the operations such as addition,division and multiplication.</i>
 
 
-After cloning the Repository ,run the command `go run main.go`  
-followed by the subcommands  
-1)Division:`d [num1] [num2]`  
-2)Multiplication:`p num[1] num[2] ...`  
-2)Addition:`add num[1] num[2] ...`  
+ <i>  After cloning the Repository ,run the command </i>   `go run main.go`    
+ <i>  followed by the subcommands </i>      
+1)To perform Division:`d [num1] [num2]`  
+2)To perform Multiplication:`p num[1] num[2] ...`  
+2)To perform Addition:`add num[1] num[2] ...`  
+<i>Returns all answers in form of integers.</i>
